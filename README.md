@@ -29,9 +29,220 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
-Figma
+/* homepage */
+
+position: relative;
+
+width: 360px;
+
+height: 640px;
+
+background: #FA0000;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Login page */
+
+position: relative;
+
+width: 367px;
+
+height: 640px;
+
+background: #FAFF03;
+
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Saveetha Engineering College */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 12px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* DEPARTMENTS: */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 209px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* AI-ML */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 275px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* AI-DS */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 341px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* IOT */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 407px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* CSE */
+
+position: absolute;
+
+width: 318px;
+
+height: 46px;
+
+left: 12px;
+
+top: 453px;
+
+font-family: 'Inter';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 24px;
+
+text-align: center;
+
+color: #000000;
+
+/* Line 3 */
+
+position: absolute;
+
+width: 360px;
+
+height: 0px;
+
+left: 0px;
+
+top: 59px;
+
+border: 1px solid #000000;
+
+transform: rotate(-0.16deg);
+
+/* seclogo 4 */
+
+position: absolute;
+
+width: 97px;
+
+height: 92px;
+
+left: 122px;
+
+top: 78px;
+
+background: url( seclogo.png)
 
 ## OUTPUT:
+![Screenshot (94)](https://user-images.githubusercontent.com/118361409/215253596-6471621c-f369-4723-b281-ce3e759c7b11.png)
+![Screenshot (95) 1](https://user-images.githubusercontent.com/118361409/215253610-ad3500cf-6da3-440f-ad22-7f735b67828d.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/118361409/215253616-982bd884-dd87-4abe-8b9f-6c880b78e573.png)
 
 
 ## RESULT:
